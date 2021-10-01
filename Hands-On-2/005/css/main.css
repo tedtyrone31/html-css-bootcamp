@@ -1,0 +1,10 @@
+body div{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 15px;
+    border:20px groove red;
+    background-image: url(/Hands-On-2/005/image/image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
