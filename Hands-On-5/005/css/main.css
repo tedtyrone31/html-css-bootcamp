@@ -1,0 +1,13 @@
+[href="google.com"] {
+    color: yellow;
+} 
+
+.red {
+    color: blue;
+}
+
+
+/*  [href="google.com"]-10 , .red -10 */
+/* .red rule won since it is in the last line than the  href attribute */
+
+

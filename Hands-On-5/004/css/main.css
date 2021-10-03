@@ -1,0 +1,16 @@
+
+[target="_blank"] {
+    color:red;
+}
+
+a {
+    color: yellow;
+}
+
+
+
+
+/*  [target="_blank"]- 2 , a -1 */
+/* [target="_blank"]rule won since the specificity is higher*/
+
+
