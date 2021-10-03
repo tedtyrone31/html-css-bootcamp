@@ -1,10 +1,13 @@
 [href="google.com"] {
-    color: yellow;
+    color: blue;
+    font-size: 2rem;
+
 } 
 
-.red {
-    color: blue;
+.color {
+    color: red;
 }
+
 
 
 /*  [href="google.com"]-10 , .red -10 */
